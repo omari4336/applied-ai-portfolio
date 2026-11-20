@@ -1,0 +1,9 @@
+.env
+.env.*
+**/data/
+.ipynb_checkpoints/
+__pycache__/
+*.pth
+*.pt
+*.onnx
+*.csv
