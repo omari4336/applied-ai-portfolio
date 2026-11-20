@@ -1,6 +1,6 @@
 # Applied AI Portfolio
 
-I'm Malek Alomari, a final-year Data Science and Artificial Intelligence student at Irbid National University. These notebooks cover image classification, natural language processing, and LLM orchestration.
+I'm Malek Alomari, a final-year Data Science and Artificial Intelligence student at Irbid National University. These notebooks cover image classification, natural language processing, and embedded data logging.
 
 | Project | Approach |
 | --- | --- |
